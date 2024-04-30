@@ -1,1 +1,1 @@
-# chikpea10k
+# chickpea10k
