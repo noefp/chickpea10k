@@ -4,7 +4,7 @@
 
 <!-- HELP -->
 <div class="margin-20">
-  <a class="float-right" href="https://jbrowse.org/jb2/docs/"><i class='fa fa-info' style='font-size:20px;color:#229dff'></i> Help</a>
+  <a class="float-right" href="/easy_gdb/help/01_search.php"><i class='fa fa-info' style='font-size:20px;color:#229dff'></i> Help</a>
 </div>
 <br>
 
