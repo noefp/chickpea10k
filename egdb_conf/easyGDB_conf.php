@@ -15,6 +15,7 @@ $annotations_path = "$root_path/annotations";
 $annotation_links_path = "$root_path/annotations";
 $passport_path = "$root_path/passport";
 $phenotype_imgs_path = "$images_path/descriptors_imgs";
+$vcf_path = "$root_path/vcf";
 
 // Custom css file
 $custom_css = 1;
