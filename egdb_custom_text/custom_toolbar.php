@@ -15,7 +15,7 @@
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Tools</a>
   <div class="dropdown-menu">
     <a class="dropdown-item" href="/easy_gdb/tools/blast/blast_input.php">BLAST</a>
-    <a class="dropdown-item jbrowse_link" href="/jbrowse/" target="_blank">Genome browser</a>
+    <a class="dropdown-item jbrowse_link" href="/jbrowse/?data=data/cicer_arietinum" target="_blank">Genome browser</a>
     <a class="dropdown-item" href="/easy_gdb/custom_view.php?file_name=synteny_viewer.php">Synteny viewer</a>
     <a class="dropdown-item" href="/easy_gdb/tools/vcf/vcf_extract_input.php">SNP Extraction</a>
     <a class="dropdown-item" href="/easy_gdb/tools/fasta_download.php">Sequence Extraction</a>
