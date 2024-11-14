@@ -1,6 +1,6 @@
 <?php
 // File paths
-$root_path = "/var/www/html"; //use absolute path
+$root_path = "/var/www/html/Chickpea10k"; //use absolute path
 $egdb_files_folder = "chickpea10k";
 $easy_gdb_path = "$root_path/easy_gdb";
 $blast_dbs_path = "$root_path/blast_dbs";
@@ -35,13 +35,14 @@ $tb_about = 0;
 $tb_downloads = 0;
 $tb_species = 0;
 $tb_search_box = 0;
+
 $tb_tools = 0;
 $tb_search = 1;
 $tb_blast = 1;
 $tb_jbrowse = 1;
 $tb_seq_ext = 1;
 $tb_annot_ext = 1;
-$tb_gene_expr = 1;
+$tb_gene_expr = 0;
 $tb_lookup = 1;
 $tb_enrichment = 0;
 $tb_more = 0;
