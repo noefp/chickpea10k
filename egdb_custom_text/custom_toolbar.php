@@ -25,4 +25,4 @@
 
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/custom_view.php?file_name=synteny_viewer.php">Synteny viewer</a></li>
 <li class="nav-item"><a class="nav-link" href="/downloads/" target="_blank">Download</a></li>
-<li class="nav-item"><a class="nav-link" href="/easy_gdb/about.php">Contact us</a></li>
+<li class="nav-item"><a class="nav-link" href="/easy_gdb/about.php">About us</a></li>
