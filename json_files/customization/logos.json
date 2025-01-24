@@ -1,0 +1,17 @@
+{
+  "logos":
+    [
+      { "image":"SABC_logo.png",
+        "link":"https://www.murdoch.edu.au/research/sabc",
+        "height":"80"
+      },
+      { "image":"MU_CCFI_logo.png",
+        "link":"https://www.murdoch.edu.au/research/ccfi",
+        "height":"75"
+      },
+      { "image":"ihsm_logo.png",
+        "link":"https://www.ihsm.uma-csic.es.org/",
+        "height":"80"
+      }
+    ]
+}

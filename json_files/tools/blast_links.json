@@ -1,0 +1,6 @@
+{
+  "Cicer_arietinum_genome.fasta":"/jbrowse/?data=data/cicer_arietinum&loc={chr}%3A{start}..{end}",
+  "Cicer_arietinum_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=chickpea_annotations.txt",
+  "Cicer_arietinum_mRNA.fasta":"/easy_gdb/gene.php?name={subject}&annot=chickpea_annotations.txt",
+  "Cicer_arietinum_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=chickpea_annotations.txt"
+}
