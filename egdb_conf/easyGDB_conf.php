@@ -1,25 +1,35 @@
 <?php
 // File paths
+//$root_path = "/var/www/html"; //use absolute path
 $root_path = "/var/www/html/Chickpea10k"; //use absolute path
 $egdb_files_folder = "chickpea10k";
+
 $easy_gdb_path = "$root_path/easy_gdb";
-$blast_dbs_path = "$root_path/blast_dbs";
-$expression_path = "$root_path/expression_data";
-$downloads_path = "downloads";
-$lookup_path = "$root_path/lookup"; //from root 
 $images_path = "/$egdb_files_folder/egdb_images";
 $custom_text_path = "$root_path/$egdb_files_folder/egdb_custom_text";
+$downloads_path = "downloads";
+$annotations_path = "$root_path/annotations";
+$blast_dbs_path = "$root_path/blast_dbs";
+$lookup_path = "$root_path/lookup"; //from root 
 $species_path = "$root_path/$egdb_files_folder/egdb_species";
 $lab_path = "$root_path/$egdb_files_folder/egdb_labs";
-$annotations_path = "$root_path/annotations";
-$annotation_links_path = "$root_path/$egdb_files_folder/annotations";
-$passport_path = "$root_path/passport";
-$phenotype_imgs_path = "$images_path/descriptors_imgs";
+$json_files_path = "$root_path/$egdb_files_folder/json_files";
+
+// $annotation_links_path = "$root_path/$egdb_files_folder/annotations";
 $vcf_path = "$root_path/vcf";
 
 // Custom css file
-$custom_css = 1;
+// $custom_css = 1;
 $custom_css_path = "$egdb_files_folder/css/chickpea10k.css";
+
+//Expression
+$expression_path = "$root_path/expression_data";
+$private_expression_path = "$root_path/private_expression_data";
+
+//Passport
+$passport_path = "$root_path/passport";
+$phenotype_imgs_path = "$images_path/descriptors_imgs";
+
 
 // Select 1 to store annotations in files or 0 to store annotations in a relational database
 $file_database = 1;
@@ -64,6 +74,10 @@ $positions=[
   'replicates' => 6,
   'table' => 7
 ];
+
+// Passport
+$show_map = 1;
+$show_qr = 1;
 
 // About
 $ab_citation = 1;
