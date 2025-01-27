@@ -1,6 +1,6 @@
 <a class="navbar-brand" href="/easy_gdb/index.php">Chickpea<span style="color:#ffc107"> 10K</span></a>
 
-<li class="nav-item"><a class="nav-link" href="/easy_gdb/tools/passport/02_pass_file_to_datatable.php?dir_name=Chickpea_10K">Passport</a></li>
+<li class="nav-item"><a class="nav-link" href="/easy_gdb/tools/passport/02_pass_file_to_datatable.php">Passport</a></li>
 
 <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Search</a>
