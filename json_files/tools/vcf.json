@@ -1,0 +1,22 @@
+{
+  "gene_names_file":"gene_names.txt",
+  "gff_file":"Cicer_arietinum_gene_models.gff.gz",
+  "jb_data_folder":"cicer_arietinum",
+  "passport_folder":"Chickpea_10K",
+  "chr_files":
+    {
+      "chr1":"test2.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
+      "chr2":"chr2.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
+      "chr3":"chr3.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
+      "chr4":"chr4.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
+      "chr5":"chr5.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
+      "chr6":"chr6.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
+      "chr7":"chr7.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
+      "chr8":"chr8.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz"
+    },
+    "snp_eff_subtable":
+    {
+      "head":["Annotation","Annotation_Impact","Gene_Name"],
+      "data":[2,3,4]
+    }
+}
