@@ -16,7 +16,7 @@
     },
     "snp_eff_subtable":
     {
-      "head":["Annotation","Annotation_Impact","Gene_Name"],
-      "data":[2,3,4]
+      "head":["Variant Info","Gene Name"],
+      "data":[2,5]
     }
 }
