@@ -16,7 +16,7 @@
     },
     "snp_eff_subtable":
     {
-      "head":["Variant Info","Gene Name"],
-      "data":[2,5]
+      "head":["Allele","Variant Info","Gene Name"],
+      "data":[1,2,5]
     }
 }
