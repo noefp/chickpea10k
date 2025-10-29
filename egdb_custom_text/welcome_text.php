@@ -27,7 +27,7 @@
     </div>
     
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-      <a href="/easy_gdb/tools/passport/02_pass_file_to_datatable.php?dir_name=Chickpea_10K" class="d-flex align-items-center justify-content-center flex-column zoom-img">
+      <a href="/easy_gdb/tools/passport/02_pass_file_to_datatable.php" class="d-flex align-items-center justify-content-center flex-column zoom-img">
         <img src="<?php echo $images_path.'/passport.png'?>" alt="Genotypes" width="220px" height="220px" class="solid alignnone size-medium wp-image-3011 rounded-circle" >
       </a>
       <div class="text-center">
