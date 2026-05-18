@@ -5,14 +5,14 @@
   "passport_folder":"Chickpea_10K",
   "chr_files":
     {
-      "chr1":"test2.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
-      "chr2":"chr2.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
-      "chr3":"chr3.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
-      "chr4":"chr4.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
-      "chr5":"chr5.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
-      "chr6":"chr6.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
-      "chr7":"chr7.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz",
-      "chr8":"chr8.chickpea.chr.hardfiltered.snp.chr1.ann.vcf.gz"
+      "chr1":"chickpea.chr.hardfiltered.snp.chr1.ann.v2.vcf.gz",
+      "chr2":"chickpea.chr.hardfiltered.snp.chr2.ann.v2.vcf.gz",
+      "chr3":"chickpea.chr.hardfiltered.snp.chr3.ann.v2.vcf.gz",
+      "chr4":"chickpea.chr.hardfiltered.snp.chr4.ann.v2.vcf.gz",
+      "chr5":"chickpea.chr.hardfiltered.snp.chr5.ann.v2.vcf.gz",
+      "chr6":"chickpea.chr.hardfiltered.snp.chr6.ann.v2.vcf.gz",
+      "chr7":"chickpea.chr.hardfiltered.snp.chr7.ann.v2.vcf.gz",
+      "chr8":"chickpea.chr.hardfiltered.snp.chr8.ann.v2.vcf.gz"
     },
     "snp_eff_subtable":
     {
