@@ -38,7 +38,7 @@
     </div>
     
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-      <a href="/jbrowse/" target="_blank" class="d-flex align-items-center justify-content-center flex-column zoom-img">
+      <a href="/jbrowse/?data=data%2Fcicer_arietinum&tracks=DNA%2Ccar_gene_models" target="_blank" class="d-flex align-items-center justify-content-center flex-column zoom-img">
         <img src="<?php echo $images_path.'/jbrowse.png'?>" alt="Genotypes" width="220px" height="220px" class="solid alignnone size-medium wp-image-3011 rounded-circle">
       </a>
       <div class="text-center">
