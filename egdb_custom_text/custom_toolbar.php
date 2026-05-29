@@ -5,9 +5,9 @@
 <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Genotype and Phenotype</a>
   <div class="dropdown-menu">
+    <a class="dropdown-item" href="/easy_gdb/tools/passport/passport_search_input.php">Passport and Phenotype Search</a>
     <a class="dropdown-item" href="/easy_gdb/tools/vcf/vcf_extract_input.php">Variant Explorer</a>
     <a class="dropdown-item" href="/easy_gdb/tools/vcf/vcf_extract_acc_list_input.php">Genetic Variation Search by acc</a>
-    <a class="dropdown-item" href="/easy_gdb/tools/passport/passport_search_input.php">Passport and Phenotype Search</a>
   </div>
 </li>
 
@@ -18,8 +18,6 @@
     <a class="dropdown-item" href="/easy_gdb/tools/blast/blast_input.php">BLAST</a>
     <a class="dropdown-item jbrowse_link" href="/jbrowse/?data=data/cicer_arietinum" target="_blank">Genome browser</a>
     <a class="dropdown-item" href="/easy_gdb/custom_view.php?file_name=synteny_viewer.php">Synteny viewer</a>
-    <a class="dropdown-item" href="/easy_gdb/tools/vcf/vcf_extract_input.php">SNP browser</a>
-    <a class="dropdown-item" href="/easy_gdb/tools/vcf/vcf_extract_acc_list_input.php">SNP browsing by acc</a>
     <a class="dropdown-item" href="/easy_gdb/tools/fasta_download.php">Sequence Extraction</a>
     <a class="dropdown-item" href="/easy_gdb/tools/annot_input_list.php">Annotation Extraction</a>
   </div>
