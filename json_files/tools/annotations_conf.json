@@ -1,0 +1,128 @@
+{
+  "chickpea_annotations.txt":
+    {"displayed_name":"<i>Cicer arietinum</i>",
+      "description":"",
+      "jbrowse":"/jbrowse/?data=data%2Fcicer_arietinum&loc={gene_name}&tracks=DNA%2Ccar_gene_models",
+      "gene_blast_dbs": ["Cicer_arietinum_proteins.fasta","Cicer_arietinum_CDS.fasta","Cicer_arietinum_mRNA.fasta"]
+    },
+  "ICC456_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC456</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC456_proteins.fasta", "ICC456_CDS.fasta", "ICC456_transcripts.fasta"]
+    },
+  "ICC867_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC867</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC867_proteins.fasta", "ICC867_CDS.fasta", "ICC867_transcripts.fasta"]
+    },
+  "ICC1180_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC1180</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC1180_proteins.fasta", "ICC1180_CDS.fasta", "ICC1180_transcripts.fasta"]
+    },
+  "ICC1715_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC1715</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC1715_proteins.fasta", "ICC1715_CDS.fasta", "ICC1715_transcripts.fasta"]
+    },
+  "ICC2277_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC2277</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC2277_proteins.fasta", "ICC2277_CDS.fasta", "ICC2277_transcripts.fasta"]
+    },
+  "ICC2969_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC2969</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC2969_proteins.fasta", "ICC2969_CDS.fasta", "ICC2969_transcripts.fasta"]
+    },
+  "ICC3325_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC3325</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC3325_proteins.fasta", "ICC3325_CDS.fasta", "ICC3325_transcripts.fasta"]
+    },
+  "ICC4593_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC4593</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC4593_proteins.fasta", "ICC4593_CDS.fasta", "ICC4593_transcripts.fasta"]
+    },
+  "ICC4841_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC4841</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC4841_proteins.fasta", "ICC4841_CDS.fasta", "ICC4841_transcripts.fasta"]
+    },
+  "ICC5504_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC5504</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC5504_proteins.fasta", "ICC5504_CDS.fasta", "ICC5504_transcripts.fasta"]
+    },
+  "ICC5878_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC5878</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC5878_proteins.fasta", "ICC5878_CDS.fasta", "ICC5878_transcripts.fasta"]
+    },
+  "ICC6811_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC6811</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC6811_proteins.fasta", "ICC6811_CDS.fasta", "ICC6811_transcripts.fasta"]
+    },
+  "ICC6874_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC6874</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC6874_proteins.fasta", "ICC6874_CDS.fasta", "ICC6874_transcripts.fasta"]
+    },
+  "ICC7272_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC7272</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC7272_proteins.fasta", "ICC7272_CDS.fasta", "ICC7272_transcripts.fasta"]
+    },
+  "ICC7351_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC7351</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC7351_proteins.fasta", "ICC7351_CDS.fasta", "ICC7351_transcripts.fasta"]
+    },
+  "ICC7868_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC7868</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC7868_proteins.fasta", "ICC7868_CDS.fasta", "ICC7868_transcripts.fasta"]
+    },
+  "ICC8621_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC8621</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC8621_proteins.fasta", "ICC8621_CDS.fasta", "ICC8621_transcripts.fasta"]
+    },
+  "ICC13124_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC13124</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC13124_proteins.fasta", "ICC13124_CDS.fasta", "ICC13124_transcripts.fasta"]
+    },
+  "ICC16374_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC16374</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC16374_proteins.fasta", "ICC16374_CDS.fasta", "ICC16374_transcripts.fasta"]
+    },
+  "ICC16903_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC16903</i>",
+      "description":"",
+      "jbrowse":0,
+      "gene_blast_dbs": ["ICC16903_proteins.fasta", "ICC16903_CDS.fasta", "ICC16903_transcripts.fasta"]
+    }
+}
