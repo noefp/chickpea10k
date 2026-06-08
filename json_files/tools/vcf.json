@@ -2,7 +2,7 @@
   "gene_names_file":"gene_names.txt",
   "gff_file":"Cicer_arietinum_gene_models.gff.gz",
   "jb_data_folder":"cicer_arietinum",
-  "passport_folder":"Chickpea_10K",
+  "passport_folder":"chickpea",
   "chr_files":
     {
       "chr1":"chickpea.chr.hardfiltered.snp.chr1.ann.v2.vcf.gz",
