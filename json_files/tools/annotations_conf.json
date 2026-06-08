@@ -95,11 +95,11 @@
       "jbrowse":0,
       "gene_blast_dbs": ["ICC7351_proteins.fasta", "ICC7351_CDS.fasta", "ICC7351_transcripts.fasta"]
     },
-  "ICC7868_annotations.txt":
-    {"displayed_name":"<i>C. arietinum ICC7868</i>",
+  "ICC7668_annotations.txt":
+    {"displayed_name":"<i>C. arietinum ICC7668</i>",
       "description":"",
       "jbrowse":0,
-      "gene_blast_dbs": ["ICC7868_proteins.fasta", "ICC7868_CDS.fasta", "ICC7868_transcripts.fasta"]
+      "gene_blast_dbs": ["ICC7668_proteins.fasta", "ICC7668_CDS.fasta", "ICC7668_transcripts.fasta"]
     },
   "ICC8621_annotations.txt":
     {"displayed_name":"<i>C. arietinum ICC8621</i>",
