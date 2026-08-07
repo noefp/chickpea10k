@@ -1,7 +1,6 @@
-<br>
 <div class="row">
 	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-		<h3>ChickPea<span style="color:#EFB50B">10k</span> Project Leader</h3>
+		<h3>Chickpea<span style="color:#EFB50B">10K</span> Project Leader</h3>
 		<a class="card flex-row egdb_person_card" href="https://researchportal.murdoch.edu.au/esploro/profile/rajeev_varshney/" target="blank" style="color:#333">
 			<img class="card-img-left egdb_person_img" src="/chickpea10k/egdb_images/people/rajeev.jpg" alt="Lab member">
 			<div class="card-body" style="padding: 5px;">
@@ -13,7 +12,7 @@
 		</a>
 	</div>
 	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-		<h3>ChickPea<span style="color:#EFB50B">10k</span> Site Developer</h3>
+		<h3>Chickpea<span style="color:#EFB50B">10K</span> Site Developer</h3>
 		<a class="card flex-row egdb_person_card" href="https://www.ihsm.uma-csic.es/investigadores/1031/" target="blank" style="color:#333">
 			<img class="card-img-left egdb_person_img" src="/chickpea10k/egdb_images/people/noe.jpeg" alt="Lab member">
 			<div class="card-body" style="padding: 5px;">
@@ -37,7 +36,10 @@
 <br>
 <hr>
 <h3>How to cite Chickpea<span style="color:#EFB50B;">10K</span></h3>
-<br>
+
+<?php
+include_once realpath("$custom_text_path/db_citation.php");
+?>
 
 <style>
   .egdb_person_card {

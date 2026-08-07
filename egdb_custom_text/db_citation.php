@@ -1,7 +1,7 @@
 <div class="row">
   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
-    <h4>Please, when using the Chickpea10K data, cite us using the reference:</h4>
+    <h4>Please, when using the Chickpea<span style="color:#ffc107">10K</span> data, cite us using the reference:</h4>
 
     <div class="card bg-light" style="height:100px">
       <div class= "card-body">

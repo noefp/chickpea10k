@@ -1,4 +1,4 @@
-<a class="navbar-brand" href="/easy_gdb/index.php">Chickpea<span style="color:#ffc107"> 10K</span></a>
+<a class="navbar-brand" href="/easy_gdb/index.php">Chickpea<span style="color:#ffc107">10K</span></a>
 
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/tools/passport/02_pass_file_to_datatable.php?dir_name=chickpea">Passport</a></li>
 
