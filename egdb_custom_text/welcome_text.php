@@ -72,7 +72,7 @@
     
   </div> <br>
 <?php
-include_once realpath("$custom_text_path/db_citation.php");
+//include_once realpath("$custom_text_path/db_citation.php");
 ?>
 
 </div>

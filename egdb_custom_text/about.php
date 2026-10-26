@@ -35,10 +35,10 @@
 
 <br>
 <hr>
-<h3>How to cite Chickpea<span style="color:#EFB50B;">10K</span></h3>
+<!-- <h3>How to cite Chickpea<span style="color:#EFB50B;">10K</span></h3> -->
 
 <?php
-include_once realpath("$custom_text_path/db_citation.php");
+//include_once realpath("$custom_text_path/db_citation.php");
 ?>
 
 <style>
